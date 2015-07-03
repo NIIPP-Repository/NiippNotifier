@@ -1,0 +1,27 @@
+C:\Users\Руслан\documents\visual studio 2013\Projects\NiippNotifier\NiippNotifier\bin\Release\NiippNotifier.exe.config
+C:\Users\Руслан\documents\visual studio 2013\Projects\NiippNotifier\NiippNotifier\bin\Release\NiippNotifier.exe
+C:\Users\Руслан\documents\visual studio 2013\Projects\NiippNotifier\NiippNotifier\bin\Release\NiippNotifier.pdb
+C:\Users\Руслан\documents\visual studio 2013\Projects\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.MainForm.resources
+C:\Users\Руслан\documents\visual studio 2013\Projects\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.Properties.Resources.resources
+C:\Users\Руслан\documents\visual studio 2013\Projects\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.csproj.GenerateResource.Cache
+C:\Users\Руслан\documents\visual studio 2013\Projects\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.exe
+C:\Users\Руслан\documents\visual studio 2013\Projects\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.pdb
+D:\Проекты\NiippNotifier\NiippNotifier\bin\Release\NiippNotifier.exe.config
+D:\Проекты\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.exe
+D:\Проекты\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.pdb
+D:\Проекты\NiippNotifier\NiippNotifier\bin\Release\NiippNotifier.exe
+D:\Проекты\NiippNotifier\NiippNotifier\bin\Release\NiippNotifier.pdb
+D:\Проекты\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.MainForm.resources
+D:\Проекты\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.Properties.Resources.resources
+D:\Проекты\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.csproj.GenerateResource.Cache
+D:\Проекты\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.csprojResolveAssemblyReference.cache
+D:\github\NiippNotifier\NiippNotifier\bin\Release\NiippNotifier.exe.config
+D:\github\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.exe
+D:\github\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.pdb
+D:\github\NiippNotifier\NiippNotifier\bin\Release\NiippNotifier.exe
+D:\github\NiippNotifier\NiippNotifier\bin\Release\NiippNotifier.pdb
+D:\github\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.MainForm.resources
+D:\github\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.Properties.Resources.resources
+D:\github\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.csproj.GenerateResource.Cache
+D:\GitHub\NiippNotifier\NiippNotifier\obj\Release\NiippNotifier.FormStatistics.resources
+D:\GitHub\NiippNotifier\NiippNotifier\bin\Release\MySql.Data.dll

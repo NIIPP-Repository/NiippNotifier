@@ -1,0 +1,10 @@
+D:\GitHub\NiippNotifier\NiippNotifier\bin\Debug\NiippNotifier.exe.config
+D:\GitHub\NiippNotifier\NiippNotifier\obj\Debug\NiippNotifier.exe
+D:\GitHub\NiippNotifier\NiippNotifier\obj\Debug\NiippNotifier.pdb
+D:\GitHub\NiippNotifier\NiippNotifier\bin\Debug\NiippNotifier.exe
+D:\GitHub\NiippNotifier\NiippNotifier\bin\Debug\NiippNotifier.pdb
+D:\GitHub\NiippNotifier\NiippNotifier\obj\Debug\NiippNotifier.FormStatistics.resources
+D:\GitHub\NiippNotifier\NiippNotifier\obj\Debug\NiippNotifier.MainForm.resources
+D:\GitHub\NiippNotifier\NiippNotifier\obj\Debug\NiippNotifier.Properties.Resources.resources
+D:\GitHub\NiippNotifier\NiippNotifier\obj\Debug\NiippNotifier.csproj.GenerateResource.Cache
+D:\GitHub\NiippNotifier\NiippNotifier\obj\Debug\NiippNotifier.csprojResolveAssemblyReference.cache
